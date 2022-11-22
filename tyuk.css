@@ -1,0 +1,24 @@
+body{
+    background-image: url("hatter.jpg");
+    color: #003399;
+    
+}
+div{
+    width: 700px;
+    border: 0px solid black;
+    background-color: #EEEECC;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+#kakas{
+    display: block;
+    margin: right;
+}
+a{
+    text-align: right;
+}
+#kep{
+    margin: right;
+}
